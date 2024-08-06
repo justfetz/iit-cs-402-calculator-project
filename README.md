@@ -24,8 +24,10 @@ This project is a simple calculator application implemented in C. It supports va
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/calculator-project.git
-    cd calculator-project
+    git clone https://github.com/yourusername/iit-cs-402-calculator-project
+.git
+    cd iit-cs-402-calculator-project
+
     ```
 
 2. **Compile the program:**
